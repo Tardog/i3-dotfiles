@@ -1,0 +1,42 @@
+[options]
+font = FiraCode 10
+
+[colors]
+
+# special
+foreground      = #9ea7a6
+foreground_bold = #9ea7a6
+cursor          = #9ea7a6
+background = rgba(15, 24, 29, 0.9)
+
+# black
+color0  = #232c31
+color8  = #3f4944
+
+# red
+color1  = #267fb5
+color9  = #267fb5
+
+# green
+color2  = #2a5491
+color10 = #2a5491
+
+# yellow
+color3  = #b02f30
+color11 = #b02f30
+
+# blue
+color4  = #748aa6
+color12 = #748aa6
+
+# magenta
+color5  = #c59820
+color13 = #c59820
+
+# cyan
+color6  = #ff410d
+color14 = #ff410d
+
+# white
+color7  = #9ea7a6
+color15 = #b5d8f6

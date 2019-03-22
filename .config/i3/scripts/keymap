@@ -1,0 +1,2 @@
+setxkbmap -option
+setxkbmap -option compose:rctrl
